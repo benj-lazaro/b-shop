@@ -1,2 +1,2 @@
-# j-shop
-Front-end Web Project
+# b-shop
+A front-end Web Project
